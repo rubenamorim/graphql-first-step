@@ -1,0 +1,20 @@
+{
+  "name": "graphql-first-step",
+  "version": "1.0.0",
+  "description": "First step with GraphQL and Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ruben Amorim",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rubenamorim/graphql-first-step.git"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.1"
+  }
+}
